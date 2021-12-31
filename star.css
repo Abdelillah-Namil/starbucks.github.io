@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    ;
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-family: 'Bebas Neue', cursive;
+     font-family: 'Teko', sans-serif;  
+    color: black;
+}
+.navbar-brand:hover{
+    color: #00704A;
+}
+.nav-link{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: #00704A;
+}
+.search{
+    margin-left: 30%;
+    margin-right: 40%;
+    height: 40px;
+    width: 20vw;
+    border-radius: 60px;
+    outline: none;
+    font-family: 'Bebas Neue', cursive;
+    margin-right: -35px;
+    border: 2px solid #00704A ;
+}
+.btn0{
+    height: 40px;
+    width: 10vw;
+    outline: none;
+    border: none;
+    background: #00704A;
+    color: white;
+    border-radius: 60px;
+}
+.img{
+    background: gray;
+    width: 100vw;
+
+}
+.news{
+    background: #d4e9e2;
+}
+.news a{
+    text-decoration: none;
+    color: black;
+    
+}
+.news a:hover{
+    color: #00704A;
+}
+.news li{
+    list-style: none;
+}
+.btn{
+    margin-right: 5px;
+}
+.btn a{
+    text-decoration: none;
+    color: #00704A ;
+}
